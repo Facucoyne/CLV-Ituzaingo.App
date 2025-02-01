@@ -37,6 +37,13 @@ body{
     margin: 65px;
     
 }
+.TextoShadow{
+    color: bisque;
+    text-align: center;
+    padding: 5px;
+    text-shadow: 1px 1px  3px #c1a01d
+    ;
+}
 
 h4{
     font-family: Georgia, 'Times New Roman', Times, serif;
@@ -44,6 +51,7 @@ h4{
 
 .Parrafo{
     color: crimson;
+    
 }
 
 .estribillo{
