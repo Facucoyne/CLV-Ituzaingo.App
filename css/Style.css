@@ -1,3 +1,6 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap");
+
+
 *{
     margin: 0;
     padding: 0;
@@ -20,7 +23,7 @@ body{
 }
 
 .conten-Banner{
-    color: rgb(238, 205, 164);
+    color: rgb(254, 247, 238);
     font-size: 25px;
     height: 90%;
     display: flex;
@@ -43,6 +46,14 @@ body{
     padding: 5px;
     text-shadow: 1px 1px  3px #c1a01d
     ;
+}
+
+.TextoShadow1{
+    color: rgb(254, 247, 238);
+    text-align: center;
+    font-weight: bold;
+    padding: 5px;
+   
 }
 
 h4{
@@ -96,5 +107,8 @@ h4{
     }
 
     .Vdemo{
-        color: rgb(247, 9, 56);
+        color: #fff;
+        font-family: "poppis";
+        text-shadow: 1px 1px  15px #c1a01d
+    ;
     }
