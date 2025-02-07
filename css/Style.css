@@ -43,9 +43,10 @@ body{
 .TextoShadow{
     color: bisque;
     text-align: center;
-    padding: 5px;
+    padding: 7px;
     text-shadow: 1px 1px  3px #c1a01d
     ;
+    font-size: 25px;
 }
 
 .TextoShadow1{
