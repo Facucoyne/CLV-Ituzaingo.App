@@ -13,3 +13,5 @@ const Toast = Swal.mixin({
     icon: "success",
     title: "Buscando información"
   });
+
+  
